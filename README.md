@@ -1,2 +1,2 @@
-# drf-example
+# Django Rest Framework API Example
 Under development...
