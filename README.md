@@ -1,2 +1,2 @@
-# Django Rest Framework API Example
-Under development...
+# Django Rest Framework API
+First django api project.
